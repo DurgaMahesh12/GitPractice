@@ -19,7 +19,7 @@ public class FirstClass {
     @Test
     public void firtstestcase(){
         System.out.println("First test case passed");
-        System.out.println("New");
+        System.out.println("Newcode");
     }
 
     @AfterMethod
