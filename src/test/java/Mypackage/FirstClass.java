@@ -20,6 +20,7 @@ public class FirstClass {
     public void firtstestcase(){
         System.out.println("First test case passed");
         System.out.println("Mahesh");
+        System.out.println("NewFeature");
     }
 
     @AfterMethod
